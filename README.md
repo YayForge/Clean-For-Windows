@@ -26,7 +26,7 @@ Python 3.x installed.
 
 1. Clone the repository:
 
-$git clone https://github.com/YayBTW/Clean-For-Windows.git
+$git clone https://github.com/YayForge/Clean-For-Windows.git
 
 2. Run the Python script:
 
@@ -70,7 +70,7 @@ Python 3.x kurulu olmalıdır.
 
 1. Depoyu klonlayın:
 
-$git clone https://github.com/YayBTW/Clean-For-Windows.git
+$git clone https://github.com/YayForge/Clean-For-Windows.git
 
 2. Python betiğini çalıştırın:
 
